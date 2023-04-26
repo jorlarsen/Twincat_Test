@@ -9,20 +9,11 @@ END_VAR
       <ST><![CDATA[// from VM
 
 <<<<<<< HEAD
-// hello on line 3 from VM]]></ST>
-    </Implementation>
-    <LineIds Name="MAIN">
-      <LineId Id="2" Count="0" />
-      <LineId Id="7" Count="0" />
-      <LineId Id="6" Count="0" />
-=======
-// hello on line 3 from local PC]]></ST>
-    </Implementation>
-    <LineIds Name="MAIN">
-      <LineId Id="2" Count="0" />
-      <LineId Id="8" Count="0" />
-      <LineId Id="7" Count="0" />
->>>>>>> fcfcf968e59c14619803b22a7c0c201785478e49
+// hello on line 3 from VM]]>
+   
+
+// hello on line 3 from local PC]]></ST> </Implementation>
+
     </LineIds>
   </POU>
 </TcPlcObject>
