@@ -1,0 +1,53 @@
+
+
+# Folders #
+###################
+**/_Libraries
+**/_CompileInfo
+**/_Boot
+**/_ModuleInstall
+**/.vs
+
+# Files #
+###################
+*.bak
+*.tclrs
+*.tmc
+*.tpy
+*.~u
+*.project.~u
+*.tsproj.bak
+*.tmcRefac
+LineIDs.dbg
+LineIDs.dbg.bak
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.suo
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+RoSenja_Process_PLC/RoSenja_Process_PLC.project.~u
+RoSenja_Process_PLC/RoSenja_Process_PLC.v12.suo
